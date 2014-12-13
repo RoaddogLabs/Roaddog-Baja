@@ -5,4 +5,4 @@ open source hardware under the terms of the Open Source Hardware
 Association.  Printed materials and documents are licensed under the
 Creative Commons Attribution ShareAlike International License CC-BY-SA.
 
-For build information, BOM and release notes see /docs.
+For build information go to http://roaddoglabs.com/wiki/Baja_i3_Rework
